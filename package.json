@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-azure-app",
+  "version": "1.0.0",
+  "description": "Sample Node.js application for Azure App Service",
+  "scripts": {
+    "start": "node app.js",
+    "build": "echo \"Build step (if required)\""
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
